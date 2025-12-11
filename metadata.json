@@ -1,0 +1,8 @@
+{
+  "name": "Thanh Dong English Coach working 5.0",
+  "description": "App luyện phát âm tiếng Anh dành cho sinh viên ĐH Thành Đông",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
